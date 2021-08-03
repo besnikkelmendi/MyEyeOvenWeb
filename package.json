@@ -12,10 +12,6 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/blk-design-system-react/issues"
   },
-  "engines": {
-    "node": "14.17.3",
-    "npm": "7.19.1"
-  },
   "homepage": "https://demos.creative-tim.com/blk-design-system-react/#/",
   "keywords": [
     "react",
